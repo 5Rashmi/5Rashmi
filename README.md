@@ -19,5 +19,3 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on exciting projects!
                                                                         ![ezgif com-resize (3)](https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5rashmi" alt="5rashmi" /></a> </p>
