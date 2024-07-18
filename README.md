@@ -12,3 +12,6 @@
 - 📧 <span class="wave">rr456rashmi@gmail.com</span>
 
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on exciting projects!
+
+```markdown
+<link rel="stylesheet" href="style.css">
