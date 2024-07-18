@@ -29,5 +29,8 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 [![](https://visitcount.itsvg.in/api?id=5Rashmi&icon=0&color=4)](https://visitcount.itsvg.in)
 ---
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on exciting projects!
-                                                                        ![ezgif com-resize (3)](https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749" alt="Animated Emoji">
+</p>
 ---
