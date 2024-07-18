@@ -1,6 +1,6 @@
 ## About Me
 
-![ezgif com-resize (1)](https://github.com/user-attachments/assets/3b70f2f7-78ef-4c51-914b-60344aeaa63a)<font color="blue" size="6">Hi there!</span> I'm Rashmi</font>
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/3b70f2f7-78ef-4c51-914b-60344aeaa63a)<font color="blue" size="6">Hi there!</span> I'm Rashmi.</font>
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
 
 
