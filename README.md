@@ -14,7 +14,7 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 ### Get in Touch:
 - ![ezgif com-resize (9)](https://github.com/user-attachments/assets/f7efac56-e0ef-449b-8112-3f38fd145ca9) rr456rashmi@gmail.com
 
-- <p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/rashmi-n-899355285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashmi-n-899355285/" height="30" width="40" /></a>
+- <p align="left"><a href="https://www.linkedin.com/in/rashmi-n-899355285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashmi-n-899355285/" height="30" width="40" /></a>
 </p>
 
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on exciting projects!
