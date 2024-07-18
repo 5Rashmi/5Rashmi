@@ -6,10 +6,12 @@
 
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
 ---
+
 <h3 align="center" style="color:purple;">What I'm Up To:</h3>
 - ![ezgif com-resize (4)](https://github.com/user-attachments/assets/4c150e44-2fa0-4fd8-bb4a-b0b478a386c6) <span style="display:inline-block; animation: wave 2s infinite;">**Learning Web Development**</span>: Diving deep into HTML, CSS, JavaScript, and modern frameworks.
 - ![ezgif com-resize (6)](https://github.com/user-attachments/assets/738e1285-d2e8-4c05-8fc1-efeea6f3b31e) <span style="display:inline-block; animation: wave 2s infinite;">**Building Projects**</span>: Applying my knowledge by developing exciting web applications and tools.
 - ![ezgif com-resize (10)](https://github.com/user-attachments/assets/3753961a-18e3-4a3d-90d6-bd961da77052) <span style="display:inline-block; animation: wave 2s infinite;">**Continuous Learning**</span>: Keeping up with the latest trends and best practices in the tech world.
+
 ---
 <h3 align="center" style="color:purple">Get in Touch:</h3>
 <div align="center">
