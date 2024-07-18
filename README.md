@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![ezgif com-resize (1)](https://github.com/user-attachments/assets/3b70f2f7-78ef-4c51-914b-60344aeaa63a), I'm Rashmi</h1>
+<h1 align="center">Hi, I'm Rashmi</h1> ![ezgif com-resize (1)](https://github.com/user-attachments/assets/3b70f2f7-78ef-4c51-914b-60344aeaa63a)
 
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
 
@@ -8,9 +8,10 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 - ![ezgif com-resize (10)](https://github.com/user-attachments/assets/3753961a-18e3-4a3d-90d6-bd961da77052) <span style="display:inline-block; animation: wave 2s infinite;">**Continuous Learning**</span>: Keeping up with the latest trends and best practices in the tech world.
 
 ### Get in Touch:
+- ![ezgif com-resize (9)](https://github.com/user-attachments/assets/f7efac56-e0ef-449b-8112-3f38fd145ca9) rr456rashmi@gmail.com
+
 - <p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/rashmi-n-899355285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashmi-n-899355285/" height="30" width="40" /></a>
 </p>
-- ![ezgif com-resize (9)](https://github.com/user-attachments/assets/dc2af975-68d1-4eb5-b59b-e0fb8dfe5d68) rr456rashmi@gmail.com
 
 Feel free to explore my repositories and see what I've been working on. Let's connect and collaborate on exciting projects!
                                                                         ![ezgif com-resize (3)](https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749)
