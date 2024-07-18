@@ -1,6 +1,6 @@
 ## About Me
 
-![Alt text](https://media.giphy.com/media/bLvuHdPruK5csyIRss/giphy.gif?cid=ecf05e47oth51avrq3v0cw5m051bpwz1tzhik6qf878yxono&ep=v1_stickers_search&rid=giphy.gif&ct=s)Hi there!</span> I'm Rashmi, a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/3b70f2f7-78ef-4c51-914b-60344aeaa63a)Hi there!</span> I'm Rashmi, a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
 
 ### What I'm Up To:
 - 🌐 <span style="display:inline-block; animation: wave 2s infinite;">**Learning Web Development**</span>: Diving deep into HTML, CSS, JavaScript, and modern frameworks.
