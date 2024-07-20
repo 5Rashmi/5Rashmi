@@ -29,11 +29,11 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 </p>
 ---
 
-<h2 align="center" style="color:violet;">Feel free to explore my repositories and see what I've been working on. Thank You!</h2>
-
-<p align="right">
+<h2 align="center" style="color:violet;">Feel free to explore my repositories and see what I've been working on. Thank You!
+ <p align="right">
   <img src="https://github.com/user-attachments/assets/47b80caa-01b7-4c99-8b2e-0dbd16d39adf" alt="Animated Emoji">
 </p>
+</h2>
 
 ---
 
