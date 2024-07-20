@@ -31,7 +31,7 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749" alt="Animated Emoji">
 </p>
-<p align="right">
+<p align="right" width='200px' height='210px'>
   <img src="https://github.com/user-attachments/assets/47b80caa-01b7-4c99-8b2e-0dbd16d39adf" alt="Animated Emoji">
 </p>
 
