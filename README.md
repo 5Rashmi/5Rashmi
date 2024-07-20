@@ -25,11 +25,16 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 
 [![](https://visitcount.itsvg.in/api?id=5Rashmi&icon=0&color=4)](https://visitcount.itsvg.in)
 ---
-Feel free to explore my repositories and see what I've been working on. Thank You!
+
+<h2 align="center" style="color:violet;">Feel free to explore my repositories and see what I've been working on. Thank You!</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c3750707-bf13-4dcb-a8fe-d7a24a21b749" alt="Animated Emoji">
 </p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/47b80caa-01b7-4c99-8b2e-0dbd16d39adf" alt="Animated Emoji">
+</p>
+
 ---
 
 <h3 align="center" style="color:purple">Get in Touch:</h3>
