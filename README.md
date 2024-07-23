@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/d1a694b0-b94a-4592-8f4f-e04f194e6f13" alt="Animated Emoji">
 </p>
 
-<h1 align="center" style="color:red;">Hi, I'm Rashmi</h1> 
+<p align="center">
+  <span style="color: #D83F6D;">Hi, I'm Rashmi</span>
+</p>
 
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
 ---
