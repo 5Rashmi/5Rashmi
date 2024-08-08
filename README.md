@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
- <span color="red">Hi, I'm Rashmi</span>
+ $\color{Bittersweet}{Hi\ I'm\ Rashmi}$
 </h1>
 
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
