@@ -15,7 +15,7 @@ I'm a passionate programmer and avid learner of web technologies. With a love fo
 - ![ezgif com-resize (10)](https://github.com/user-attachments/assets/3753961a-18e3-4a3d-90d6-bd961da77052) <span style="display:inline-block; animation: wave 2s infinite;">**Continuous Learning**</span>: Keeping up with the latest trends and best practices in the tech world.
 
 ### Check Out My Portfolio:
-- 🌐 [Visit my portfolio](my-web-portfolio-one-peach.vercel.app)
+- 🌐 [Visit my portfolio](https://my-web-portfolio-one-peach.vercel.app/)
 
 ---
 ### 💻 Tech Stack:
