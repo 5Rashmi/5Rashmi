@@ -1,0 +1,13 @@
+<svg width="435" height="100" viewBox="0 0 435 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing SVG">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+    text {
+      font-family: 'Fira Code', monospace;
+      font-size: 22px;
+      fill: #A259FF;
+    }
+  </style>
+  <text x="10" y="30">Hi there! I'm Rashmi</text>
+  <text x="10" y="60">Web Developer | Tech Enthusiast</text>
+  <text x="10" y="90">Lifelong Learner 🌱</text>
+</svg>
