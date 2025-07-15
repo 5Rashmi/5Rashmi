@@ -1,8 +1,7 @@
 <svg width="435" height="100" viewBox="0 0 435 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing SVG">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
     text {
-      font-family: 'Fira Code', monospace;
+      font-family: monospace, monospace;
       font-size: 22px;
       fill: #A259FF;
     }
