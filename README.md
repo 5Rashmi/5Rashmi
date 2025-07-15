@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A259FF&width=435&lines=Hi+there!+I'm+Rashmi;Web+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+🌱" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/5Rashmi/5Rashmi/main/typing.svg" alt="Typing SVG" />
 </p>
 
 I'm a passionate programmer and avid learner of web technologies. With a love for coding and a curious mind, I'm always exploring new ways to create and innovate.
